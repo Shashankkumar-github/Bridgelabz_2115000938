@@ -1,5 +1,5 @@
 import jaca.util.Scanner;
-public class day8_string_10{
+public class RemoveCharacter{
     public static String removeCharacter(String str, char ch) {
         return str.replace(Character.toString(ch), "");
     }

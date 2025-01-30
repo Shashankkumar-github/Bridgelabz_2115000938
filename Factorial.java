@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class day8_builtin_6 {
+public class Factorial{
     public static long factorial(int n) {
         if (n == 0 || n == 1)
             return 1;

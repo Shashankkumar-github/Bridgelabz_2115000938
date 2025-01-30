@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class day8_string_3 {
+public class CheckPalindrome  {
     public static boolean isPalindrome(String str) {
         int left = 0, right = str.length() - 1;
         while (left < right) {

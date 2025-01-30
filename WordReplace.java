@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class day8_string_12{
+public class WordReplace{
     public static String replaceWord(String sentence, String oldWord, String newWord) {
         return sentence.replace(oldWord, newWord);
     }

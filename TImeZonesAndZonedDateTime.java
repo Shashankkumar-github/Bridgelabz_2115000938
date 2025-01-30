@@ -2,7 +2,7 @@ import java.time.ZonedDateTime;
 import java.time.ZoneId;
 import java.time.format.DateTimeFormatter;
 
-public class day8_builtin_practice_1 {
+public class TImeZonesAndZonedDateTime{
     public static void main(String[] args) {
         DateTimeFormatter formatter = DateTimeFormatter.ofPattern("yyyy-MM-dd HH:mm:ss z");
 

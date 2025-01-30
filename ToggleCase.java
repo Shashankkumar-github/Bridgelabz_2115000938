@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class day8_string_7 {
+public class ToggleCase{
     public static String toggleCase(String str) {
         StringBuilder result = new StringBuilder();
         for (char ch : str.toCharArray()) {

@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class day8_string_4 {
+public class RemoveDuplicates{
     public static String removeDuplicates(String str) {
         boolean[] seen = new boolean[256]; 
         StringBuilder result = new StringBuilder();

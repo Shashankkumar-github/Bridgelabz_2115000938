@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class day8_builtin_3 {
+public class CheckPrime{
     public static boolean isPrime(int n) {
         if (n <= 1) return false;
         for (int i = 2; i * i <= n; i++) {

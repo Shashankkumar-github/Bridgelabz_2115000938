@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class day8_string_9 {
+public class StringCompare{
     public static void compareStrings(String s1, String s2) {
         int minLength = Math.min(s1.length(), s2.length());
         for (int i = 0; i < minLength; i++) {

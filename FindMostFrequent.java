@@ -1,6 +1,6 @@
 import java.util.Scanner;
 `
-public class day8_string_9 {
+public class FindMostFrequent {
     public static char findMostFrequentChar(String str) {
         if (str == null || str.isEmpty()) {
             throw new IllegalArgumentException("String cannot be empty or null.");

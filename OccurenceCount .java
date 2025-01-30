@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class day8_string_6 {
+public class OccurenceCount {
 
     public static int countOccurrences(String str, String sub) {
         int count = 0, index = 0;

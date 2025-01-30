@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class day8_string_5 {
+public class LongestWord {
     public static String findLongestWord(String sentence) {
         String[] words = sentence.split("\\s+");
         String longest = "";

@@ -1,7 +1,7 @@
 import java.time.LocalDate;
 import java.time.format.DateTimeFormatter;
 
-public class day8_builtin_practice_3 {
+public class DateFormatting {
     public static void main(String[] args) {
         LocalDate today = LocalDate.now();
 

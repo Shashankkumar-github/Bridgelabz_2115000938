@@ -1,7 +1,7 @@
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class day8_string_11{
+public class AnagramCheck{
     public static boolean areAnagrams(String s1, String s2) {
         if (s1.length() != s2.length()) return false;
         char[] arr1 = s1.toCharArray();

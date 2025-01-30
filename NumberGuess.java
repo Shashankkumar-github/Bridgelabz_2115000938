@@ -1,7 +1,7 @@
 import java.util.Scanner;
 import java.util.Random;
 
-public class day8_builtin_1{
+public class NumberGuess{
     public static void playGame() {
         Scanner scanner = new Scanner(System.in);
         int low = 1, high = 100, guess;
