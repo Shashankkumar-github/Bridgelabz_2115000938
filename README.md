@@ -98,3 +98,15 @@ Key Concepts:
 ✅ this Keyword
 ✅ static & final Modifiers
 ✅ instanceof Operator
+
+
+📅 5th February - Advanced OOPs (Association,Agregation and Composition)
+What was taught: how to make classes in Association ,agregation and composition and 
+                  Object Oriented Design Principles
+                 - Class Diagram
+                 - Object Diagrams
+                 - Sequence Diagram
+What I learned: Solved OOPs problems and done assignments.
+Key Concepts:
+✅ Association ,aggregation and Composition
+✅ Class ,Object and Sequence Diagram
