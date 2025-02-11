@@ -110,3 +110,38 @@ What I learned: Solved OOPs problems and done assignments.
 Key Concepts:
 ✅ Association ,aggregation and Composition
 ✅ Class ,Object and Sequence Diagram
+
+
+📅 6th February - OOPs concept (Inheritance)
+What was taught: Inheritance ,its types,key features ,Polymorphism and Acesss Modifiers
+What I learned: understand topics and  solve assignments
+Key Concepts:
+✅ Inheritance
+✅ Single Level Inheritance
+✅ Multilevel Inheritance
+✅ Hierarchical Inheritance
+✅ Key Features of Inheritance
+✅ Method Overriding
+✅ Constructor Inheritance in Java
+✅ Polymorphism and Inheritance
+✅ Access Modifiers and Inheritance
+ 
+ 📅 8th February - OOPs concepts(Encapsulation,Interface,Abstract Classes,Polymorphism)
+ what was taught: Encapsulation ,polymorphism, Interface,Abstract classes
+ What I learned: understand the concepts and done assignments
+ Key Concepts: 
+ ✅ Encapsulation
+ ✅ Polymorphism
+ ✅ Interface
+ ✅ Abstract Classes
+
+ 📅 11th February - Data Structure Introduction(LinkedList)
+ what was taught: Introduction to Data Structure,key features of data Structure , types of Data                   Structure,Single LinkedList,Double LinkedList,Circular LinkedList
+What I Learned: understand the concepts of insertion ,deletion and traversing through 
+               LinkedLists
+✅ Introduction of Data Structure 
+✅ Key Features of Data Structures in Java
+✅ Types of Data Structures in Java
+✅ Single Linked List
+✅ Double Linked List
+✅ Circular Linked List
