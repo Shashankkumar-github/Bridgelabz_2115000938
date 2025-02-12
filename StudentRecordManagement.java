@@ -81,7 +81,7 @@ public void addAtEnd(int rollNumber, int age,String name,char Grade){
 	
 	public StudentNode searchByRollNumber(int rollNumber){
 	 StudentNode temp =head;
-		while(temp !- null){
+		while(temp != null){
 			if(temp.rollNumber ==rollNumber){
 			return temp;
 			}
