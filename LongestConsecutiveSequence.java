@@ -21,7 +21,7 @@ public class LongestConsecutiveSequence {
     }
 
     public static void main(String[] args) {
-        Scanner scn = new Scanner?(System.in);
+        Scanner scn = new Scanner(System.in);
 		int length = scn.nextInt();
 		int nums[] = new int[length];
 		System.out.println("enter the element :");
